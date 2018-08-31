@@ -7,7 +7,7 @@ add_definitions(-DGTEST_LANGUAGE_CXX11)
 
 find_package(Threads REQUIRED)
 
-SET(GOOGLETEST_DIR "../googletest-release-1.8.0")
+SET(GOOGLETEST_DIR ${CMAKE_CURRENT_SOURCE_DIR}/../googletest-release-1.8.0)
 
 if (EXISTS ${GOOGLETEST_DIR})
     SET(GTestSrc ${GOOGLETEST_DIR}/googletest)
