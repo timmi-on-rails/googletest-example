@@ -41,6 +41,7 @@ Um das Beispiel auszuprobieren musst du folgende Schritte durchführen:
    \> cd build
    build\> cmake ..\googletest-example
    build\> cmake --build .
+                         ^ Achtung Punkt
    ```
 
 5. Hat das geklappt, dann kannst du die unit tests jetzt ausführen:
