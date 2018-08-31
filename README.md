@@ -19,7 +19,7 @@ ich habe ein kleines Beispiel mit googletest vorbereitet:
 └── README.md
 ```
 
-CMake ist ein Cross-Platform Buildsystem 
+CMake ist ein Cross-Platform Buildsystem.
 Das aktuelle googletest framework gibt es unter https://github.com/google/googletest.
 Der Einfachheit halber habe ich es mit in das Beispiel kopiert.
 
